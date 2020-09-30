@@ -1,1 +1,1 @@
-# Here you will find different types of websites.
+# An Online Messaging platform where you can chat with your friends and give feedbacks.
